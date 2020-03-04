@@ -9,7 +9,10 @@
 ## 项目运行
 ```
 git clone https://github.com/lixuanferry/newpneumonia-map.git
+
 cd newpneumonia-map
+
 npm install
+
 npm run serve
 ```
